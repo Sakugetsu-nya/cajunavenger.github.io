@@ -1,29 +1,29 @@
 English: Gimmick<br/>Form
-Translation: 
+Translation: 特殊形态
 
 English: Pseudo Legend
-Translation: 
+Translation: 准传说
 
 English: Box Legendary
-Translation: 
+Translation: 封面神
 
 English: Download Image
-Translation: 
+Translation: 下载图片
 
 English: Alternate download link
 Translation: 
 
 English: Export Choices
-Translation: 
+Translation: 导出选项
 
 English: Import Choices
-Translation: 
+Translation: 导入选项
 
 English: Reset the grid!
-Translation: 
+Translation: 重置表格
 
 English: Are you sure you want to reset the grid?
-Translation: 
+Translation: 你确定要重置表格吗？
 
 English: Don't like my choices? You can overrule them here!
 Translation: 
@@ -53,22 +53,22 @@ English: Picking...
 Translation: 
 
 English: Click the Shiny Charm, then click Pokemon to make them shiny.
-Translation: 点击闪耀护符然后点击宝可梦让它们发光。
+Translation: 点击闪耀护符，然后点击宝可梦，让它们变闪。
 
 English: Or click here to make everything shiny.
-Translation: 
+Translation: 或者点击这里让所有宝可梦变成闪光。
 
 English: Randomize!
 Translation: 随机化！
 
 English: This site uses cookies to save your choices. You can disable them here.
-Translation: 本网站使用曲奇饼来保存您的选择。 您可以在此处禁用它们。
+Translation: 本网站使用cookies来保存您的选择。 您可以在此处禁用它们。
 
 English: This site uses cookies to save your choices. You can enable them here.
-Translation: 本网站使用曲奇饼来保存您的选择。 您可以在此处启用它们。
+Translation: 本网站使用cookies来保存您的选择。 您可以在此处启用它们。
 
 English: Pikachu Clone
-Translation: 皮卡丘克隆
+Translation: 电老鼠
 
 English: Eeveelution
 Translation: 伊布家族
@@ -77,25 +77,25 @@ English: Favorite
 Translation: 最喜欢的
 
 English: Team
-Translation: 同行
+Translation: 同行宝可梦
 
 English: Regional 
 Translation: 地区
 
 English: Regional Bird
-Translation: 地区鸟
+Translation: 家门鸟
 
 English: Regional Mammal
-Translation: 地区哺乳动物
+Translation: 家门鼠
 
 English: Regional Bug
-Translation: 地区虫
+Translation: 家门虫
 
 English: Fossil
 Translation: 化石
 
 English: Regional Form
-Translation: 地區型態
+Translation: 地区形态
 
 English: Gigantamax
 Translation: 超极巨化
@@ -107,7 +107,7 @@ English: Ultra Beast
 Translation: 究极异兽
 
 English: Paradox
-Translation: 悖謬
+Translation: 悖论种
 
 English: Type
 Translation: 属性
@@ -116,7 +116,7 @@ English: Poké Ball
 Translation: 精灵球
 
 English: Baby
-Translation: 婴儿
+Translation: 宝宝
 
 English: New Evo
 Translation: 新进化
@@ -185,8 +185,8 @@ English: Fairy
 Translation: 妖精
 
 English: Starter
-Translation: 起动机
+Translation: 御三家
 
 English: Legend
-Translation: 传说的
+Translation: 传说
 
